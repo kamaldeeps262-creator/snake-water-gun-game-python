@@ -1,4 +1,4 @@
-# 🐍 Snake Water Gun Game (Python)
+# 🐍 Snake Water Gun Game (Python) Mini Project
 
 A simple command-line implementation of the classic **Snake, Water, Gun** game using Python.
 
